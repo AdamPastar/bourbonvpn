@@ -14,8 +14,8 @@
 
 **Полезные ссылки:**
 
-[Для проверки IP](https://ip.sb/)
+- [Для проверки IP](https://ip.sb/)
 
-[Узнать скорость интернета](https://www.speedtest.net/)
+- [Узнать скорость интернета](https://www.speedtest.net/)
 
 [Если есть вопросы или нужна помощь](https://t.me/kill_me_someone)
