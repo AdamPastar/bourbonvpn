@@ -1,10 +1,10 @@
 Ссылки на установку приложений:
 
-Windows/macOS/Linux - https://github.com/coolcoala/koala-clash/releases
+[Windows/macOS/Linux](https://github.com/coolcoala/koala-clash/releases)
 
-Android - https://github.com/pluralplay/FlClashX/releases/download/v0.3.2/FlClashX-android-universal.apk
+[Android](https://github.com/pluralplay/FlClashX/releases/download/v0.3.2/FlClashX-android-universal.apk)
 
-iOS - https://apps.apple.com/us/app/clash-mi/id6744321968
+[iOS](https://apps.apple.com/us/app/clash-mi/id6744321968)
 
 Короткий гайд по подключения:
 1) Скачиваем конфиг .yaml от бота (1 конфиг на 1 устройство)
