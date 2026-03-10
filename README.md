@@ -1,6 +1,9 @@
 Ссылки на установку приложений:
+
 Windows/macOS/Linux - https://github.com/coolcoala/koala-clash/releases
+
 Android - https://github.com/pluralplay/FlClashX/releases/download/v0.3.2/FlClashX-android-universal.apk
+
 iOS - https://apps.apple.com/us/app/clash-mi/id6744321968
 
 Короткий гайд по подключения:
@@ -13,4 +16,4 @@ iOS - https://apps.apple.com/us/app/clash-mi/id6744321968
 Для проверки IP - https://ip.sb/
 Скорость интернета - https://www.speedtest.net/
 
-Если есть вопросы или нужна помощь, смело обращайтесь - https://t.me/kill_me_someone#
+Если есть вопросы или нужна помощь, смело обращайтесь - https://t.me/kill_me_someone
