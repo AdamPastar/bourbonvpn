@@ -1,3 +1,7 @@
+**🥃 [BOURBON VPN](https://t.me/bourbonvpnbot)**
+
+---
+
 **📥 Ссылки на установку приложений:**  
 💻 [Windows/macOS/Linux](https://github.com/coolcoala/koala-clash/releases)  
 🤖 [Android](https://github.com/pluralplay/FlClashX/releases/download/v0.3.2/FlClashX-android-universal.apk)  
@@ -21,4 +25,3 @@
 🌐 [Проверка IP](https://ip.sb/)  
 ⚡ [Тест скорости интернета](https://www.speedtest.net/)  
 💬 [Помощь и вопросы](https://t.me/kill_me_someone)
-🥃 [BOURBON VPN](https://t.me/bourbonvpnbot)
