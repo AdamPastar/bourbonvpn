@@ -13,7 +13,9 @@ iOS - https://apps.apple.com/us/app/clash-mi/id6744321968
 4) Теперь можно просто запустить VPN и наслаждаться
 
 Полезные ссылки:
+
 Для проверки IP - https://ip.sb/
+
 Скорость интернета - https://www.speedtest.net/
 
 Если есть вопросы или нужна помощь, смело обращайтесь - https://t.me/kill_me_someone
