@@ -1,11 +1,3 @@
-🚀 **BOURBON VPN — Быстрый, стабильный и безопасный VPN**
-
-🔹 **Идеально для игр, стриминга, Discord и свободного доступа к сайтам**  
-🔹 **Защищённое соединение с высокой скоростью**  
-🔹 **Работает без ограничений по всему миру**
-
----
-
 **📥 Ссылки на установку приложений:**  
 💻 [Windows/macOS/Linux](https://github.com/coolcoala/koala-clash/releases)  
 🤖 [Android](https://github.com/pluralplay/FlClashX/releases/download/v0.3.2/FlClashX-android-universal.apk)  
@@ -24,12 +16,7 @@
 
 ---
 
-**🎁 Пробный доступ — 7 дней бесплатно**  
-После окончания пробного периода подписка **100 ₽ / месяц**  
-
----
-
 **🔗 Полезные ссылки:**  
 🌐 [Проверка IP](https://ip.sb/)  
 ⚡ [Тест скорости интернета](https://www.speedtest.net/)  
-💬 [Поддержка и вопросы](https://t.me/kill_me_someone)
+💬 [Помощь и вопросы](https://t.me/kill_me_someone)
