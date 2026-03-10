@@ -21,4 +21,4 @@
 🌐 [Проверка IP](https://ip.sb/)  
 ⚡ [Тест скорости интернета](https://www.speedtest.net/)  
 💬 [Помощь и вопросы](https://t.me/kill_me_someone)
-\n🥃 [BOURBON VPN](https://t.me/bourbonvpnbot)
+🥃 [BOURBON VPN](https://t.me/bourbonvpnbot)
