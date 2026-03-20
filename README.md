@@ -3,10 +3,10 @@
 ---
 
 **📥 Ссылки на установку приложений:**  
-🔌 Windows/macOS/Linux: [FlClashX](https://github.com/pluralplay/FlClashX/releases), [Koala Clash](https://github.com/coolcoala/koala-clash/releases), [NekoBox](https://github.com/MatsuriDayo/nekoray/releases),
-💻 macOS: [FlClashX](https://github.com/pluralplay/FlClashX/releases), [Koala Clash](https://github.com/coolcoala/koala-clash/releases)
-🤖 Android: [FlClashX](https://github.com/pluralplay/FlClashX/releases), [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases), [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-🍎 [iOS](https://apps.apple.com/us/app/clash-mi/id6744321968)
+🔌 Windows/macOS/Linux: [FlClashX](https://github.com/pluralplay/FlClashX/releases), [Koala Clash](https://github.com/coolcoala/koala-clash/releases), [NekoBox](https://github.com/MatsuriDayo/nekoray/releases)  
+💻 macOS: [FlClashX](https://github.com/pluralplay/FlClashX/releases), [Koala Clash](https://github.com/coolcoala/koala-clash/releases)  
+🤖 Android: [FlClashX](https://github.com/pluralplay/FlClashX/releases), [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases), [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)  
+🍎 [iOS](https://apps.apple.com/us/app/clash-mi/id6744321968)  
 
 ---
 
